@@ -40,7 +40,7 @@
 // @grant       GM.getResourceUrl
 // @resource    mycon https://www.jeffersonscher.com/gm/src/gfrk-GHHbD-ver235.png
 // @downloadURL https://raw.githubusercontent.com/lyliny/MY-JS/main/Google%20Hit%20Hider%20by%20Domain%20%E6%B1%89%E5%8C%96%E7%89%882.js
-// @updateURL hhttps://raw.githubusercontent.com/lyliny/MY-JS/main/Google%20Hit%20Hider%20by%20Domain%20%E6%B1%89%E5%8C%96%E7%89%882.js
+// @updateURL https://raw.githubusercontent.com/lyliny/MY-JS/main/Google%20Hit%20Hider%20by%20Domain%20%E6%B1%89%E5%8C%96%E7%89%882.js
 // ==/UserScript==
 var script_about = "https://greasyfork.org/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites";
 /*
@@ -2990,4 +2990,5 @@ async function addAllNow(e){
     if (addAt == 'sort') sortlist(null);
     refreshSiteList();
 }
+
 
