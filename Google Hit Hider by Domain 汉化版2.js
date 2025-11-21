@@ -39,10 +39,10 @@
 // @grant       GM_getResourceURL
 // @grant       GM.getResourceUrl
 // @resource    mycon https://www.jeffersonscher.com/gm/src/gfrk-GHHbD-ver235.png
-// @downloadURL https://update.greasyfork.org/scripts/****/Google%20Hit%20Hider%20by%20Domain%20%28Search%20Filter%20%20Block%20Sites%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/****/Google%20Hit%20Hider%20by%20Domain%20%28Search%20Filter%20%20Block%20Sites%29.meta.js
+// @downloadURL https://raw.githubusercontent.com/lyliny/MY-JS/main/Google%20Hit%20Hider%20by%20Domain%20%E6%B1%89%E5%8C%96%E7%89%882.js
+// @updateURL hhttps://raw.githubusercontent.com/lyliny/MY-JS/main/Google%20Hit%20Hider%20by%20Domain%20%E6%B1%89%E5%8C%96%E7%89%882.js
 // ==/UserScript==
-var script_about = "https://greasyfork.org/scripts/****-google-hit-hider-by-domain-search-filter-block-sites";
+var script_about = "https://greasyfork.org/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites";
 /*
 Copyright (c) 2025 Jefferson Scher.
 
@@ -2990,3 +2990,4 @@ async function addAllNow(e){
     if (addAt == 'sort') sortlist(null);
     refreshSiteList();
 }
+
